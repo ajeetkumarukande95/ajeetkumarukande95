@@ -4,7 +4,7 @@
 
 🎓 Completed Data Science program from IIIT Bangalore
 
-🔭 Solving real-world statistical problems and passionate about developing and deploying end-to-end Machine Learning applications.
+🔭 Interested in solving real-world statistical problems and passionate about developing and deploying end-to-end Machine Learning applications.
 
 🌱 Currently diving deeper into:
    - Natural Language Processing (NLP)
