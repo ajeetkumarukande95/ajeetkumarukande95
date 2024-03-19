@@ -12,7 +12,7 @@
    - Computer Vision
    - Generative Artificial Intelligence (GeneAI)
 
-🤝 Open to collaborating on exciting open-source projects using Python.
+🤝 Open to collaborating on exciting open-source projects using Python and Pyspark.
 
 📫 Reach me at: [ajeetkumarukande95@gmail.com](mailto:ajeetkumarukande95@gmail.com)
 
