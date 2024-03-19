@@ -1,20 +1,41 @@
-- 👋 Hi, I’m @ajeetkumarukande95.
-- 👀 I’m interested in solving the real word statistical problem and passionate about developing and deploying end-to-end Machine Learning applications.
-- 🎓 Machine Learning Engineer | Python Developer
-- 🎓 Completed Data Science program from IIIT Bangalore
-- 🌱 Currently diving deeper into:
+### Hi there, I'm Ajeet Kumar 👋
+
+🎓 Machine Learning Engineer | Python Developer
+
+🎓 Completed Data Science program from IIIT Bangalore
+
+🔭 Solving real-world statistical problems and passionate about developing and deploying end-to-end Machine Learning applications.
+
+🌱 Currently diving deeper into:
    - Natural Language Processing (NLP)
    - Deep Learning
    - Computer Vision
    - Generative Artificial Intelligence (GeneAI)
-- 💞️ I’m looking to collaborate on Open source project using python and Pyspark.
-- 📫 How to reach me ajeetkumarukande95@gmail.com
-- ⚡ Fun fact: Chess Lover!
 
-<!---
-ajeetkumarukande95/ajeetkumarukande95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 Open to collaborating on exciting open-source projects using Python and Pyspark.
+
+📫 Reach me at: [ajeetkumarukande95@gmail.com](mailto:ajeetkumarukande95@gmail.com)
+
+⚡ Fun fact: I'm a chess enthusiast! Let's play a game sometime. ♟️
+
+<details>
+  <summary>GitHub Stats (click to expand)</summary>
+  <br>
+  
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeetkumarukande95&show_icons=true&theme=radical">
+  
+  <br>
+  <br>
+  
+  <!-- Top Languages -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkumarukande95&layout=compact)](https://github.com/ajeetkumarukande95)
+</details>
+
+<!-- Animation -->
+<div style="width: 100%; height: 300px; overflow: hidden;">
+  <img src="animation.gif" alt="Animated GIF" style="width: 100%; height: auto;">
+</div>
 
 
 
