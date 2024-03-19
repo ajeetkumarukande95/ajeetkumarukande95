@@ -1,4 +1,4 @@
-### Hi there, I'm Ajeet Kumar 👋
+### Hi there, I'm AjeetKumar Ukande 👋
 
 🎓 Machine Learning Engineer | Python Developer
 
