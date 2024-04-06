@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeetkumarukande95" alt="ajeetkumarukande95" /></a> </p>
 
+- 🔭 I’m currently working on **Generative AI and Deep Learning Project**
+
 - 🌱 I’m currently learning **Computer Vision, Generative Artificial Intelligence (GeneAI)**
 
 - 👯 I’m looking to collaborate on **exciting open-source projects using Python and Pyspark**
+
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **ajeetkumarukande95@gmail.com**
 
