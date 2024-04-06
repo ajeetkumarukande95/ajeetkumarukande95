@@ -1,4 +1,6 @@
-### Hi there, I'm AjeetKumar Ukande 👋
+<!-- Animated README.md -->
+
+# Hi there, I'm AjeetKumar Ukande 👋
 
 🎓 Machine Learning Engineer | Python Developer
 
@@ -7,10 +9,11 @@
 🔭 Interested in solving real-world statistical problems and passionate about developing and deploying end-to-end Machine Learning applications.
 
 🌱 Currently diving deeper into:
-   - Natural Language Processing (NLP)
-   - Deep Learning
-   - Computer Vision
-   - Generative Artificial Intelligence (GeneAI)
+
+- Natural Language Processing (NLP)
+- Deep Learning
+- Computer Vision
+- Generative Artificial Intelligence (GeneAI)
 
 🤝 Open to collaborating on exciting open-source projects using Python and Pyspark.
 
@@ -18,24 +21,36 @@
 
 ⚡ Fun fact: I'm a chess enthusiast! Let's play a game sometime. ♟️
 
+<!-- GitHub Stats (click to expand) -->
+
 <details>
-  <summary>GitHub Stats (click to expand)</summary>
+  <summary>GitHub Stats</summary>
   <br>
-  
-  <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeetkumarukande95&show_icons=true&theme=radical">
-  
-  <br>
-  <br>
-  
-  <!-- Top Languages -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetkumarukande95&layout=compact)](https://github.com/ajeetkumarukande95)
+  <!-- Your GitHub stats image URL comes here -->
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajeetkumarukande95&show_icons=true&hide_border=true" />
 </details>
 
-<!-- Animation -->
-<div style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="animation.gif" alt="Animated GIF" style="width: 100%; height: auto;">
-</div>
+<!-- CSS animation for fun -->
+<style>
+  @keyframes color-change {
+    0% {
+      background-color: #ffdb58;
+    }
+    25% {
+      background-color: #ff9f40;
+    }
+    50% {
+      background-color: #ff7043;
+    }
+    75% {
+      background-color: #ff4500;
+    }
+    100% {
+      background-color: #ff0000;
+    }
+  }
 
-
-
+  body {
+    animation: color-change 5s infinite;
+  }
+</style>
