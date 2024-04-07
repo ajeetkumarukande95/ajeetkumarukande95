@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm a chess enthusiast! Let's play a game sometime. ♟️**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
