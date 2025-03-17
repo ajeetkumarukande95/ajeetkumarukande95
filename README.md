@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ajeetkumar Ukande</h1>
+<h1 align="center">Hi 👋, I'm Ajeet kumar</h1>
 <h3 align="center">A Passionate AI/ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetkumarukande95&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetkumarukande95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeetkumarukande95" alt="ajeetkumarukande95" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeetkumar" alt="ajeetkumar" /></a> </p>
 
 - 🔭 I’m currently working on **Generative AI and Deep Learning Project**
 
@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on **exciting open-source projects using Python and Pyspark**
 
 - 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **ajeetkumarukande95@gmail.com**
 
 - ⚡ Fun fact **I'm a chess enthusiast! Let's play a game sometime. ♟️**
 
