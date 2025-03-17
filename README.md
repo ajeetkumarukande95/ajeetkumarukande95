@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Generative AI and Deep Learning Project**
 
-- 🌱 I’m currently learning **Computer Vision, Generative Artificial Intelligence (GeneAI)**
+- 🌱 I’m currently learning **Computer Vision, Generative Artificial Intelligence (GenAI)**
 
 - 👯 I’m looking to collaborate on **exciting open-source projects using Python and Pyspark**
 
